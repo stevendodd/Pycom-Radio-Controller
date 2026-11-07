@@ -1,8 +1,8 @@
-# Pycom Radio Controller for ICOM IC-9700, IC-7610 and IC-7300MK2 | Remote Control Software
+# Pycom Radio Controller — ICOM Remote Control & AI-Assisted Operating
 
 [![Pycom Radio Controller interface](https://pycom.stevendodd.net/images/cover-image.jpg)](https://pycom.stevendodd.net/)
 
-> Remote Control Of Your ICOM IC-9700, IC-7610 and IC-7300MK2 With AI-Assisted Operating
+> Remote Control Of Your ICOM Transceiver With AI-Assisted Operating
 
 [Get Started](https://pycom.stevendodd.net/getting-started.html)
 
@@ -10,7 +10,7 @@
 
 ## Remote Operation Designed For Practical Amateur Radio Use
 
-Pycom Radio Controller provides direct CI-V based control of the ICOM IC-9700, IC-7610 and IC-7300MK2, allowing operators to manage frequency, mode, memories, tones and more from a connected computer. Full remote control of your station can be achieved allowing you to operate your radio from wherever you may be.
+Pycom Radio Controller provides direct CI-V based control of your ICOM transceiver, allowing operators to manage frequency, mode, memories, tones and more from a connected computer. Supported radios: the IC-9700, IC-7610 and IC-7300 MK2, with beta support for the IC-7760, IC-7300 MK1 and IC-705. Full remote control of your station can be achieved allowing you to operate your radio from wherever you may be.
 
 The application is designed for voice and digital satellite operations providing full duplex control via a built-in rigctl server alongside integrations with popular amateur radio satellite tooling.
 
@@ -112,7 +112,7 @@ Watch demos, tutorials and live operating videos - from full duplex satellite co
 
 ## Ready To Get On The Air?
 
-Download Pycom Radio Controller, connect your IC-9700, IC-7610 and IC-7300MK2 over the network, and explore everything from full duplex satellite operation to AI-assisted operating. Enjoy an enhanced remote operating experience.
+Download Pycom Radio Controller, connect your ICOM transceiver over the network or USB, and explore everything from full duplex satellite operation to AI-assisted operating. Enjoy an enhanced remote operating experience.
 
 [Get Started](https://pycom.stevendodd.net/getting-started.html)
 
